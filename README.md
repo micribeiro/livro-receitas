@@ -1,3 +1,6 @@
-#Livro de receitasd
+#Livro de receitas
+
+- Strogonoff
+- Pavê
 
 
